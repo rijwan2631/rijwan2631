@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm Rijwan Samim</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+### Hi there 👋, I'm Rijwan Samim
+#### A Passionate Frontend Developer From India
+![A Passionate Frontend Developer From India](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRF54fs-gWHsKCU8iOXO6oEfB_oLX1m2zQCg&s)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rijwan2631&label=Profile%20views&color=0e75b6&style=flat" alt="rijwan2631" /> </p>
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-- 🌱 I’m currently learning **Java,Python,JavaScript**
+Skills: HTML / CSS/ Java/Python
 
-- 📫 How to reach me **rijwansamim26@gmail.com**
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Javascript,Python 
+- 😄 Pronouns: She/her 
 
-- ⚡ Fun fact **😂**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rijwan samim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rijwan samim" height="30" width="40" /></a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rijwan2631)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rijwansamim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rijwansamim26/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rijwansamim26)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijwan2631)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rijwan2631&show_icons=true&locale=en&layout=compact" alt="rijwan2631" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rijwan2631&show_icons=true&count_private=true)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rijwan2631&show_icons=true&locale=en" alt="rijwan2631" /></p>
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/rijwan2631/contributions?format=svg&private=true)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rijwan2631&" alt="rijwan2631" /></p>
+![GitHub metrics](https://metrics.lecoq.io/rijwan2631)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=rijwan2631)  
 
