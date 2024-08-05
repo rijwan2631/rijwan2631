@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rijwan Samim
 #### A Passionate Frontend Developer From India
-![A Passionate Frontend Developer From India](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRF54fs-gWHsKCU8iOXO6oEfB_oLX1m2zQCg&s)
+![A Passionate Frontend Developer From India](https://st4.depositphotos.com/16775192/28673/v/450/depositphotos_286731136-stock-illustration-programming-concept-banner.jpg)
 
 🎓 I'm a 4th year student at Calcutta Institute of Technology pursuing CSE
 
@@ -22,6 +22,8 @@ Skills: HTML / CSS/ Java/Python
 ![GitHub metrics](https://metrics.lecoq.io/rijwan2631)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rijwan2631)  
+
+
 
 
 
