@@ -2,7 +2,7 @@
 #### A Passionate Frontend Developer From India
 ![A Passionate Frontend Developer From India](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRF54fs-gWHsKCU8iOXO6oEfB_oLX1m2zQCg&s)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+🎓 I'm a 4th year student at Calcutta Institute of Technology pursuing CSE
 
 Skills: HTML / CSS/ Java/Python
 
@@ -22,4 +22,6 @@ Skills: HTML / CSS/ Java/Python
 ![GitHub metrics](https://metrics.lecoq.io/rijwan2631)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rijwan2631)  
+
+
 
