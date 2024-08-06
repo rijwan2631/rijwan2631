@@ -6,9 +6,8 @@
 
 Skills: HTML / CSS/ Java/Python
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Javascript,Python 
-- 😄 Pronouns: She/her 
+ - 🌱 I’m currently learning Javascript,Python
+ - - 😄 Pronouns: She/her 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rijwan2631)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rijwansamim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rijwansamim26/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rijwansamim26)  
